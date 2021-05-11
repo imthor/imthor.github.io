@@ -1,0 +1,54 @@
+# Site
+name: "n0ob"
+title: "n0ob"
+description: "A collection of excerpts from my experiments with different technologies."
+logo: ''
+favicon: 'http://github.com/favicon.ico'
+baseurl: /noob
+include: ["_pages"]
+permalink: /:title/
+
+# Authors
+authors:
+  imthor:
+    name: imthor
+    display_name: imthor
+    picurl: https://avatars.githubusercontent.com/u/48450247
+    web: https://github.com/imthor
+    twitter: https://github.com/imthor
+    description: "Engineer (Unix|Networking|Python) | Graphic Designer | Guitarist"
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Pagination 
+paginate: 6
+paginate_path: /page:num/
+    
+# Other
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "disabled"
+
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
