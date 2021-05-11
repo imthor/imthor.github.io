@@ -22,7 +22,7 @@ Now that I look back, I feel that it would have been helpful for other people li
 
 Well, with this never ending **covid** around, like most of you I've also been stuck home as well. Having no way to do anything outdoor and been frustrated for over more than a year, I've now been channeling my energy on building a home lab during free time.
 
-So, as part of that I've been working on lot of different small setups that I'm happy share for other n0obs who might find it helpful.
+So, as part of that I've been working on lot of different small setups that I'm happy to share for other n0obs who might find it helpful.
 
 Hope that you find the articles I'll be sharing here useful and fun to read.
 
