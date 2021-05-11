@@ -4,7 +4,7 @@ title: "n0ob"
 description: "A collection of excerpts from my experiments with different technologies."
 logo: ''
 favicon: 'http://github.com/favicon.ico'
-baseurl: /noob
+#baseurl: /noob
 include: ["_pages"]
 permalink: /:title/
 
