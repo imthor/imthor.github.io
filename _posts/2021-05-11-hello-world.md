@@ -5,8 +5,8 @@ author: imthor
 categories: [ thoughts, lab ]
 tags: [covid, procastinate, lazy, lab]
 image: assets/images/thor1.jpg
-description: "My review of Inception movie. Acting, plot and something else in this short description."
-featured: true
+description: "Just a few words on Why and Why now?"
+featured: false
 hidden: false
 ---
 
