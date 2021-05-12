@@ -3,10 +3,10 @@
   <channel>
     <title>n0ob</title>
     <description>A collection of excerpts from my experiments with different technologies.</description>
-    <link>http://0.0.0.0:4000/noob/</link>
-    <atom:link href="http://0.0.0.0:4000/noob/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 12 May 2021 01:59:08 +0530</pubDate>
-    <lastBuildDate>Wed, 12 May 2021 01:59:08 +0530</lastBuildDate>
+    <link>http://0.0.0.0:4000/</link>
+    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 12 May 2021 10:35:07 +0530</pubDate>
+    <lastBuildDate>Wed, 12 May 2021 10:35:07 +0530</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -23,15 +23,15 @@
 
 &lt;p&gt;Well, with this never ending &lt;strong&gt;covid&lt;/strong&gt; around, like most of you I’ve also been stuck home as well. Having no way to do anything outdoor and been frustrated for over more than a year, I’ve now been channeling my energy on building a home lab during free time.&lt;/p&gt;
 
-&lt;p&gt;So, as part of that I’ve been working on lot of different small setups that I’m happy share for other n0obs who might find it helpful.&lt;/p&gt;
+&lt;p&gt;So, as part of that I’ve been working on lot of different small setups that I’m happy to share for other n0obs who might find it helpful.&lt;/p&gt;
 
 &lt;p&gt;Hope that you find the articles I’ll be sharing here useful and fun to read.&lt;/p&gt;
 
 &lt;p&gt;See you around!&lt;/p&gt;
 </description>
         <pubDate>Tue, 11 May 2021 00:00:00 +0530</pubDate>
-        <link>http://0.0.0.0:4000/noob/hello-world/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/noob/hello-world/</guid>
+        <link>http://0.0.0.0:4000/hello-world/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/hello-world/</guid>
         
         <category>covid</category>
         
